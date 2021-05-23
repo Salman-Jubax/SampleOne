@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TrustlyIosSdk",
+        "repositoryURL": "https://github.com/trustly/TrustlyIosSdk",
+        "state": {
+          "branch": null,
+          "revision": "eeac9471dde5e6a7cd648539bb08afecb560d268",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
